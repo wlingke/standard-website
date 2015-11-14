@@ -35,3 +35,5 @@ https://github.com/nodejitsu/forever-monitor/issues/80
 
 #####Examples:
 - [Ovid Senior Life Settlements](https://www.ovidlife.com)
+- [Life Settlement Definition](https://www.ovidlife.com/what-is-a-life-settlement)
+- [Ovid Life Settlement Process](https://www.ovidlife.com/life-settlement-process)
